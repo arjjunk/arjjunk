@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Web Developer
 - 🌱 I’m currently learning coding
 - 💬 Ask me about coding
-- 📫 How to reach me: https://arjjunk/github.io
+- 📫 How to reach me: https://arjjunk.github.io
 
