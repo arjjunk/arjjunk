@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## Who am i ?
 
- I'm a Freelance Full Stack Web Developer from Kerala, India
+ I'm a _**Freelance Full Stack Web Developer**_ from Kerala, India
 
  [Contact Me](https://arjjunk.github.io)
 
@@ -34,4 +34,12 @@ Here are some ideas to get you started:
 - Website Design
 - Web Application
 - Desktop Application
+
+## What i did ?
+
+[Kamyaka Homestay][kamyaka]  
+[Fitness Counter][fitness]
+
+[kamyaka]:https://kamyakahome.com
+[fitness]:https://github.com/arjjunk/ai-fitness-counter
 
