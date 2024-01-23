@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## Who am i ?
 
- I'm a _**Freelance Full Stack Web Developer**_ from Kerala, India
+ I'm a _**Freelance Software Developer**_ from Kerala, India
 
  [Contact Me](https://arjjunk.github.io)
 
