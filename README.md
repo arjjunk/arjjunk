@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
  I'm a _**Freelance Software Developer**_ from Kerala, India
 
- [Contact Me](https://arjjunk.github.io)
+ [Contact Me](https://arjunk.me)
 
 ## What do i know ?
 
@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 ## What i did ?
 
-[Kamyaka Homestay][kamyaka]  
-[Fitness Counter][fitness]
-
-[kamyaka]:https://kamyakahome.com
-[fitness]:https://github.com/arjjunk/ai-fitness-counter
+[ui-repo](https://ui-repo.arjunk.me)  
+[kamyaka](https://kamyakahome.com)  
+[fitness](https://github.com/arjjunk/ai-fitness-counter)  
 
