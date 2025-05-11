@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
  I'm a _**Freelance Software Developer**_ from Kerala, India
 
- [Contact Me](https://arjunk.me)
+ [Contact Me](https://arjjunk.github.io)
 
 ## What do i know ?
 
